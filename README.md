@@ -1,1 +1,2 @@
-#This is my local Repo
+# This is my local Repo
+# "DON'T MAKE ANY MISTAKE IN LIFE AND DON'T LOSE ANY OPPROTINITIES!. "
